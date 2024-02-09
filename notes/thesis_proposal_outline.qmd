@@ -1,0 +1,38 @@
+---
+title: "Acidification of Peatland Bogs in Alberta, Canada: Influences of Oil Sands Development on peat cycle"
+author: "Isabella Duggan"
+output:
+  quarto::pdf_document:
+    citation_package: natbib
+    latex_engine: pdflatex
+    template: apa6
+bibliography: references_bib
+---
+
+Research Paper Outline: 
+
+1. Title Page 
+
+2. Acknowledgements 
+
+3. Table of Contents 
+
+4. Abstract 
+
+5. Biography 
+
+6. Overview 
+
+  * Peat bogs – what are they? What lives there? Importance? Peat Cycle? Production? Specificity to Alberta 
+
+  * Alberta – how long has peat been there/ discovered when? Importance to previous production section? Alberta in general: rising temperatures? 
+
+  * Rising temperatures in general implications for ecosystems and atmospheric 
+
+  * GHG cycle/ emissions impacts – sulfur, N cycle, etc., contributions to GHG emissions (i.e. rising temperatures but also oil development) 
+
+  * Possibility of acid deposition/ acidification in bogs – implications for bogs, peat cycle, and production 
+  
+7. Purpose of Study/ Importance/ Intended methology (?)
+
+ 

@@ -1,0 +1,40 @@
+---
+title: "semester1_notes"
+author: Isabella Duggan
+format: 
+  html:
+    toc: true
+editor: source
+---
+
+## Questions from other students papers:
+
+> Julia Paper:
+
+  * "leaky pipe" theory? of gaseous N production
+  * Need to review: N Cycle
+    1. nitrification
+    2. mineralization / ammonificatioon
+    3. peat cycle
+  * rising temps in Alberta, effect on plants when C/N is remaining in atm? > effects on peat long term/ overall impacts globally
+
+> Joshua Paper: 
+
+  *In PA? Due to COVID?
+
+## Brainstorming ideas:
+
+> Acidification of peatland bogs
+
+  * Causes? 
+    1. Rising temps + increased GHGs in atm.
+    2. bogs are primarily fed by rain/snow - atm. conditions have large implications for ecosystem
+  * Implications?
+    1. as an acidic environment how might further acidification effect community responses/ specifically peat production & plant life
+    2. do peat cores allow growth in greater acidic environments- if not what could this mean for peat production as an industry?
+    3. contribution of oil sands development to atmospheric conditions- leading to increased acid deposition (?)/ acid rain(?)
+
+> Specialized environment where plants need certain conditions to thrive - how will this be effected if conditions were to change?
+
+> Use growth chamber & test species under differin pH?
+  *determine growth of each species in specific conditions
