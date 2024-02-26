@@ -6,7 +6,7 @@ output:
     citation_package: natbib
     latex_engine: pdflatex
     template: apa6
-bibliography: references_bib
+bibliography: sources/references_bib/references_bib.bib
 ---
 
 Research Paper Outline: 
@@ -23,7 +23,18 @@ Research Paper Outline:
 
 6. Overview 
 
-  * Peat bogs – what are they? What lives there? Importance? Peat Cycle? Production? Specificity to Alberta 
+  * Peat bogs:
+  
+      > what are they?
+      To understand what a peat bog is, and how one might define "peaatlands," it is first necessary to define peat. Peat can be understood as an accumulation of plant and animal matter, in varying stages of decomposition, and in water-saturated conditions (The Biology of Peatlands, p.4). Peat is an organic material which forms sedentary in anaerobic or anoxic, and typically acidic, conditions. In bogs, the formation of peat is a constant cycle (), which can be extremely important in indicating the functionality of the ecosystem (). All living things in a peatland habitat end up adding to peat material (The Biology of Peatlands, p.4).
+      
+      > What lives there? 
+      > Importance? 
+      
+  * Peat Cycle?
+  
+    > Mosses > Acidic > Peat?
+    > Production? Specificity to Alberta 
 
   * Alberta – how long has peat been there/ discovered when? Importance to previous production section? Alberta in general: rising temperatures? 
 
@@ -35,4 +46,4 @@ Research Paper Outline:
   
 7. Purpose of Study/ Importance/ Intended methology (?)
 
- 
+@citation_key
