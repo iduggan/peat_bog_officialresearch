@@ -1,0 +1,19 @@
+---
+title: "deadlines_spring2024"
+format: 
+  html:
+    toc: 
+editor: source
+---
+
+## Week 7:
+> Begin Introduction
+
+  *Compile 10 sources
+  *3 pages of introduction
+
+## Week 8: (Spring break)
+  *5 more sources added
+  *3-4 pages of introduction
+  
+## Week 9: 
