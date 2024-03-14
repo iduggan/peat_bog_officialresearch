@@ -25,25 +25,33 @@ Research Paper Outline:
 
   * Peat bogs:
   
-      > what are they?
-      To understand what a peat bog is, and how one might define "peaatlands," it is first necessary to define peat. Peat can be understood as an accumulation of plant and animal matter, in varying stages of decomposition, and in water-saturated conditions (The Biology of Peatlands, p.4). Peat is an organic material which forms sedentary in anaerobic or anoxic, and typically acidic, conditions. In bogs, the formation of peat is a constant cycle (), which can be extremely important in indicating the functionality of the ecosystem (). All living things in a peatland habitat end up adding to peat material (The Biology of Peatlands, p.4).
-      
-      > What lives there? 
-      > Importance? 
-      
-  * Peat Cycle?
-  
-    > Mosses > Acidic > Peat?
-    > Production? Specificity to Alberta 
+   > Introduction
+  What are peatlands (1-2 pages)
+Peatland habitat covers approximately 365,157 km^2 of land in western Canada (Wieder et al., 2021; Vitt et al., 2000). These ecosystems are known for their carbon sequestration from the atmosphere and are often referred to as carbon sinks(), though they are not limited to only drawing carbon from the atmosphere. Other greenhouse gasses, DEFINE, including nitrogen and sulfur, and their varying forms, are also commonly retained by peat in peatlands ().
+There are varying forms of peatlands, typically minerotrophic fens and ombrotrophic bogs, where specific conditions allow for a variety of specialized species to dominate. While vegetation and species present are important to identifying peatland habitat, there are other classifications to consider in defining a peatland. Overarchingly, peatlands can be understood as a type of wetland where the water table is at or near the surface (Bogs & Fens book, Peatlands book), and can be distinguished from other wetlands by the presence of peat. Peat, made up of decomposing plant and animal matter, accumulates in the anoxic conditions of bogs and fens. Wetland habitat may be designated as peatland after peat has accumulated to 30 cm, or greater, depth (according to Canadian classification) (peatlands book). 
+Minerotrophic fens (briefly). Ombrotrophic bogs. Bog cover
+Peat is directly associated with carbon and other greenhouse gas sequestration from the atmosphere, and will hold onto these components unless disturbed or dredged ().
 
-  * Alberta – how long has peat been there/ discovered when? Importance to previous production section? Alberta in general: rising temperatures? 
+* Define peat/ importance of peat (peat deposits = LOTS of carbon); peat pulls carbon from atmosphere and holds onto it so long as we don’t dig it up. Peat grows at 1-2 mm per year, with depth in certain places it was around for 6000-8000 years.
+  * Bogs versus fens
+* Global bogs importance (?) (2 paragraphs)
+  * Global coverage?
+  * Carbon sink
+  * Purpose of peat (reiterate)
+* Specific to Canada (1 page)
+  * Alberta
+  * Alberta research
+* C N and S deposition (2 pages)
+  * Carbon sink
+  * N and S processes
+  * Thermodynamic ladder
+* Research idea (4 pages? ~8 paragraphs)
+  * Climate change
+  * Factors and importance
+  * Precipitation/ Water table
+  * Temperature
+  * Evapotranspiration????
 
-  * Rising temperatures in general implications for ecosystems and atmospheric 
 
-  * GHG cycle/ emissions impacts – sulfur, N cycle, etc., contributions to GHG emissions (i.e. rising temperatures but also oil development) 
-
-  * Possibility of acid deposition/ acidification in bogs – implications for bogs, peat cycle, and production 
-  
-7. Purpose of Study/ Importance/ Intended methology (?)
 
 @citation_key

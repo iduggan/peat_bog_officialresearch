@@ -1,0 +1,17 @@
+---
+title: "research_links"
+format: html
+editor: source
+---
+
+## Links:
+
+* https://www.ceh.ac.uk/sites/default/files/Peatland%20factsheet.pdf
+
+* https://albertawilderness.ca/the-cost-of-climate-change-food-production/#:~:text=According%20to%20Environment%20and%20Climate,3%20times%20the%20global%20rate.
+
+* https://link.springer.com/article/10.1007/BF00290931
+
+* https://www.apis.ac.uk/node/921
+
+* https://link.springer.com/chapter/10.1007/978-3-642-70874-9_36
